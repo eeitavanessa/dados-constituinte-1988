@@ -4,7 +4,7 @@ Análise de padrões temáticos e distribuição geográfica nas cartas da Assem
 
 [Constituinte de 1988/](https://github.com/eeitavanessa/dados-constituinte-1988/)
 │
-├── 📄 analise_constituinte.py
+├── 📄 [analise_constituinte.py](https://github.com/eeitavanessa/dados-constituinte-1988/blob/main/analise_constituinte.py)
 ├── 📄 dados_constituinte.csv
 ├── 📄 requirements.txt
 ├── 📄 README.md
